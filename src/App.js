@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { type } from '@testing-library/user-event/dist/type';
 
 const api = {
-  key: 'aa30737110c6a8b711929eca2dd67515',
+  key: 'apikey',
   base: 'https://api.openweathermap.org/data/2.5/'
 }
 function App() {
